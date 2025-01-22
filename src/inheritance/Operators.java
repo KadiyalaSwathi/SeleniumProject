@@ -7,8 +7,8 @@ public class Operators extends Calculator{
         // so here we can access add method from addition class, subtraction method from calculator class
         Operators op = new Operators();
         op.multiplication();
-        op.add(10,5);
-        op.subtraction(30,10);
+        op.add(10,20);
+        op.subtraction(10,5);
 
     }
     public void multiplication(){

@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Addition {
+public class Addition  {
 
     public static void main(String[] args) {
     //Normal program
